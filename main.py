@@ -1,5 +1,5 @@
 players = ["Player 1", "Player 2"]
-move_input = 0
+
 options = ["X", "Y"]
 
 matrix = [["1", "2", "3"], ["4", "5", "6"], ["7", "8", "9"]]
